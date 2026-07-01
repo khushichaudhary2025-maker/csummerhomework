@@ -43,7 +43,6 @@ int main()
 
 int main()
 {
-<<<<<<< HEAD
     char str[100];
     int i, j;
 
@@ -143,6 +142,3 @@ int main()
 
     return 0;
 }
-=======
-    char str[
->>>>>>> 7c3a413904136fa68951b3d217897f5e6d9713a7
